@@ -1,5 +1,7 @@
 # Projeto MInA
 
+![github-smal](https://portal.mina.com.br/wp-content/uploads/2020/02/cropped-Marca-Mina.png)
+
 Projeto da disciplina (MINF-0072) PROJETO DE DESENVOLVIMENTO - UNICAP
 
 Professor: Rodrigo de Paula Monteiro
