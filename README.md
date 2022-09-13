@@ -16,3 +16,11 @@ Professor: Rodrigo de Paula Monteiro
 ## Sobre o Projeto:
 
 DETALHAR O PROJETO AQUI!
+
+- sobre projeto mina
+
+## Ferramentas que estamos utilizando
+  ► Front-End: React, html, css, javascript
+  ► Back-End: C++
+  ► Hardware: Arduino, nodemcu
+  ► Banco de dados integrado
