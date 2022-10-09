@@ -1,7 +1,5 @@
 # Projeto MInA
 
-![github-smal](https://portal.mina.com.br/wp-content/uploads/2020/02/cropped-Marca-Mina.png)
-
 Projeto da disciplina (MINF-0072) PROJETO DE DESENVOLVIMENTO - UNICAP
 
 Professor: Rodrigo de Paula Monteiro
@@ -15,11 +13,15 @@ Professor: Rodrigo de Paula Monteiro
 - [Marcos Rigel](https://github.com/MarcosRigel)
 - [Pedro Silva](https://github.com/PedroSilvaBarros)
 
+
+## Logo do Projeto:
+
+![logo_mina3](https://user-images.githubusercontent.com/59017718/194776664-5a1ee00e-7241-4270-9713-0570ce602da5.png)
+
+
 ## Sobre o Projeto:
 
-DETALHAR O PROJETO AQUI!
 
-- sobre projeto mina
 
 ## Ferramentas que estamos utilizando
   - Front-End: React, html, css, javascript                                                                                                                                 
