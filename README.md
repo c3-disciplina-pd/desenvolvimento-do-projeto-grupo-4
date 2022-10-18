@@ -21,7 +21,7 @@ Professor: Rodrigo de Paula Monteiro
 
 ## Sobre o Projeto:
 
-
+O projeto é sobre, enviar testes para o coletor identificar uma lógica pra realizar testes na plataforma mina. Simular dados costumizados para a plataforma mina, comunicação dashboard com arduino para realizar interação com um hardware arduino.
 
 ## Ferramentas que estamos utilizando
   - Front-End: React, html, css, javascript                                                                                                                                 
