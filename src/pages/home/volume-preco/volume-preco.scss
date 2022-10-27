@@ -1,0 +1,15 @@
+.volume-pre-linha {
+  display: flex;
+  .volume-pre-piebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .volume-pre-produtos {
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    width: 50vw;
+    padding: 1rem;
+  }
+}

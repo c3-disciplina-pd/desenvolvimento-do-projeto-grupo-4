@@ -1,0 +1,19 @@
+.dados-linha {
+  display: flex;
+  flex-wrap: wrap;
+  p {
+    margin: 1rem 0 0 0
+  }
+  span {
+    strong {
+      margin: 0 0 1rem !important
+    }
+  }
+}
+
+.divider-v {
+    margin: 0rem 1em;
+    border-left: 1px solid grey;
+    height: 100%;
+    margin: 100px;
+}
