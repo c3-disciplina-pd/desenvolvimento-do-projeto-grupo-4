@@ -1,0 +1,33 @@
+// @import "../../themes/generated/variables.base.scss";
+
+.login-form {
+  .link {
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    color: #268EA6;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .form-text {
+    margin: 10px 0;
+    
+  }
+}
+
+.button-login {
+  background-color: #268EA6;
+}
+
+.dx-widget.dx-button.dx-button-mode-contained.dx-button-default {
+  background: #268EA6;
+}
+
+.dx-theme-material-typography a {
+  color:#268EA6;
+}
+
+
