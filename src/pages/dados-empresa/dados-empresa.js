@@ -1,21 +1,21 @@
 import React from "react";
 import "./dados-empresa.scss";
-import DataGrid, {
-  Column,
-} from "devextreme-react/data-grid";
+import DataGrid, { Column } from "devextreme-react/data-grid";
 import { useHistory } from "react-router-dom";
 import HeaderDataGrid from "../../components/header-datagrid/header-datagrid";
 import { Button } from "devextreme-react";
 
 const DadosEmpresaPage = () => {
-  
   const history = useHistory();
 
-  function addAdrass (){
-    history.push('/novo-endereco')
+  function addAdrass() {
+    history.push("/novo-endereco");
   }
 
-  
+  function returnHome() {
+    history.push("/home");
+  }
+
   return (
     <React.Fragment>
       <h2 className={"content-block"}>Dados da Empresa</h2>
@@ -32,23 +32,23 @@ const DadosEmpresaPage = () => {
         >
           <div style={{ marginRight: "2rem" }}>
             <h2>Empresa</h2>
-            <div style={{display: "flex"}}>
-              <div style={{marginRight: "1.5rem"}}>
+            <div style={{ display: "flex" }}>
+              <div style={{ marginRight: "1.5rem" }}>
                 <p>CNPJ</p>
                 <span>
-                  <strong>72.855.744/0001-05</strong>
+                  <strong>11.111.111/0001-01</strong>
                 </span>
                 <p>Razão Social</p>
                 <span>
-                  <strong>Empresa de Treinamento JP LTDA</strong>
+                  <strong>Metamina</strong>
                 </span>
                 <p>Nome Fantasia</p>
                 <span>
-                  <strong>Empresa de Treinamento JP</strong>
+                  <strong>Metamina</strong>
                 </span>
                 <p>Apelido</p>
                 <span>
-                  <strong>Empresa de Treinamento JP</strong>
+                  <strong>Metamina</strong>
                 </span>
                 <p>Telefone</p>
                 <span>
@@ -66,11 +66,11 @@ const DadosEmpresaPage = () => {
                 </span>
                 <p>Atualizado em</p>
                 <span>
-                  <strong>25/07/2021 17:41</strong>
+                  <strong>18/11/2022 07:00</strong>
                 </span>
                 <p>Criado em</p>
                 <span>
-                  <strong>25/07/2021 16:30</strong>
+                  <strong>18/11/2022 07:30</strong>
                 </span>
               </div>
             </div>
@@ -93,6 +93,8 @@ const DadosEmpresaPage = () => {
             </DataGrid>
           </div>
         </div>
+
+        <Button width={120} text="Retornar" onClick={returnHome} />
       </div>
     </React.Fragment>
   );
