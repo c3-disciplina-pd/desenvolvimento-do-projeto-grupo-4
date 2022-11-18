@@ -12,7 +12,7 @@ export const navigation = [
     icon: "preferences",
     items: [
       {
-        text: "Evento",
+        text: "Eventos",
         path: "/calendario",
       },
       
