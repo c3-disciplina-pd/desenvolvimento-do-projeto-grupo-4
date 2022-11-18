@@ -13,7 +13,7 @@ export const navigation = [
     items: [
       {
         text: "Segurança",
-        // path: "/departamentos",
+        path: "/calendario",
       },
       
     ],
