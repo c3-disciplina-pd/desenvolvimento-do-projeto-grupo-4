@@ -23,6 +23,20 @@ Professor: Rodrigo de Paula Monteiro
 
 O projeto é sobre, enviar testes para o coletor identificar uma lógica pra realizar testes na plataforma mina. Simular dados costumizados para a plataforma mina, comunicação dashboard com arduino para realizar interação com um hardware arduino.
 
+## Aplicação:
+
+### Tela de Login:
+
+![tela_login](https://user-images.githubusercontent.com/59017718/202697051-3285d843-cdf9-4397-af5d-71838e18ccd6.jpg)
+
+### Tela de Cadastro: 
+
+![tela_cadastro](https://user-images.githubusercontent.com/59017718/202696992-bbad7952-6e13-4316-a5d3-986c78ec7612.jpg)
+
+### Dashboard:
+
+![tela_dashboard](https://user-images.githubusercontent.com/59017718/202697117-c806b42f-daed-4a8a-bfe7-0fba57fd3186.jpg)
+
 ## Ferramentas que estamos utilizando
   - Front-End: React, html, css, javascript                                                                                                                                 
   - Back-End: C++
