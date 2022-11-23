@@ -25,6 +25,9 @@ O projeto é sobre, enviar testes para o coletor identificar uma lógica pra rea
 
 ## Fluxograma:
 
+![image](https://user-images.githubusercontent.com/59017718/203636559-24fd5a39-35e2-4d02-a398-af7abf5277fc.png)
+
+
 ## Aplicação:
 
 ### Tela de Login:
