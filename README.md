@@ -21,7 +21,7 @@ Professor: Rodrigo de Paula Monteiro
 
 ## Sobre o Projeto:
 
-O projeto é sobre, enviar testes para o coletor identificar uma lógica pra realizar testes na plataforma mina. Simular dados costumizados para a plataforma mina, comunicação dashboard com arduino para realizar interação com um hardware arduino.
+O projeto é sobre uma plataforma que irá simular envio de dados customizados(frequência, meta, quantidade) entre uma dashboard, com uma estrutura física, seja ela por exemplo, um arduíno, nodeMCU, coletor ou um relé; onde essa comunicação acontece por meio de sensores, tento todo um back-end por trás, na qual irá realizar requisições em tempo real para o hardware.
 
 ## Fluxograma:
 
@@ -44,7 +44,7 @@ O projeto é sobre, enviar testes para o coletor identificar uma lógica pra rea
 
 ## Como funciona a aplicação: 
 
-O nosso site foi feito para enviar informações do front-end para o colerto atravês de sensores, para isso, temos uma dashboard que o usuário pode informar atributos a serem enviados, que são esses a frequência, a meta, a quantidade. Depois disso, temos algumas opções como a de "enviar" esses dados; a de parar o envio desses dados atravês do "stop"; e a opção de colocar o envio desses dados em um "loop".    
+O nosso site foi feito para enviar informações do front-end para o coletor atravês de sensores, para isso, temos uma dashboard que o usuário pode informar atributos a serem enviados, que são esses a frequência, a meta, a quantidade. Depois disso, temos algumas opções como a de "enviar" esses dados; a de parar o envio desses dados atravês do "stop"; e a opção de colocar o envio desses dados em um "loop".    
 
 ## Ferramentas que estamos utilizando
   - Front-End: React, html, css, javascript                                                                                                                                 
