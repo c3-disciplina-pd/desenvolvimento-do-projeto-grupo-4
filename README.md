@@ -46,6 +46,10 @@ O projeto é sobre uma plataforma que irá simular envio de dados customizados(f
 
 O nosso site foi feito para enviar informações do front-end para o coletor atravês de sensores, para isso, temos uma dashboard que o usuário pode informar atributos a serem enviados, que são esses a frequência, a meta, a quantidade. Depois disso, temos algumas opções como a de "enviar" esses dados; a de parar o envio desses dados atravês do "stop"; e a opção de colocar o envio desses dados em um "loop".    
 
+## Demonstração da aplicação:
+
+https://user-images.githubusercontent.com/59017718/205645947-fae0d626-7d95-47f1-8205-bb5f68d41de9.mp4
+
 ## Ferramentas que estamos utilizando
   - Front-End: React, html, css, javascript                                                                                                                                 
   - Back-End: C++
