@@ -1,0 +1,15 @@
+.cotacoes-linhas {
+  display: flex;
+}
+
+.cotacoes-card {
+  width: 100%;
+  padding: 1rem;
+}
+
+.cotacoes-card-compras {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  flex-wrap: nowrap;
+}
